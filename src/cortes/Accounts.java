@@ -1,6 +1,7 @@
 package cortes;
 
 public class Accounts {
+    
     int aid;
     String fname, lname, email, user, pass;
     
